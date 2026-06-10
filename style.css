@@ -1,0 +1,125 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    padding: 50px;
+
+}
+
+.header-one, .section-two, .setion-three, .section-four, .section-five, .section-footer{
+    padding: 15px;
+}
+
+.header-one{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.header-one__desc{
+    color: gray;
+}
+
+.section-form,.section-footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.section-footer__btn{
+    background-color: yellow;
+    color: rgba(0, 0, 0, 0.77);
+    width: 400px;
+    padding:5px;
+    border-radius: 5px;
+}
+
+.section-form__table{
+    display: inline-block;
+}
+
+
+.section-two__img{
+    width: 200px;
+    height: 370px;
+    vertical-align: top;
+}
+
+.section-two__desc, .section-three__desc, .section-four__desc, .section-five__desc{
+    width: 200px;
+    text-align: center;
+    display: inline-block;
+}
+
+.section-two__title, .section-three__title, .section-four__title, .section-five__title{
+    text-align: center;
+}
+
+.section-two__btn, .section-three__btn, .section-four__btn, .section-five__btn{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 5px;
+    margin-left: 55px;
+    display: inline-block;
+}
+
+.section-footer{
+    margin-top: 10px;
+}
+
+.section-three__img{
+    width: 200px;
+    height: 385px;
+    vertical-align: top;
+}
+
+.section-three{
+    display: inline-block;
+    border: solid;
+    height: 480px;
+    margin-top: 10px;
+    width:200px ;
+    vertical-align: top;
+}
+
+ .section-two{
+    display: inline-block;
+    border: solid;
+    height: 450px;
+    width:190px ;
+    margin-top: 10px;
+    vertical-align: top;
+    margin-left: 220px;
+}
+
+ .section-four{
+    display: inline-block;
+    border: solid;
+    height: 450px;
+    width:190px ;
+    margin-top: 10px;
+    vertical-align: top;
+}
+
+.section-five{
+    display: inline-block;
+    border: solid;
+    height: 450px;
+    width:190px ;
+    margin-top: 10px;
+    vertical-align: top;
+}
+
+ .section-four__img{
+    width: 200px;
+    height: 365px;
+} 
+
+.section-five__img{
+    width: 200px;
+    height: 365px;
+}
